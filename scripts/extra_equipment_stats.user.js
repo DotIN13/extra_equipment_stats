@@ -90,13 +90,13 @@
 // @namespace		tomy
 // @description		Displays number of extra stats your armor gives you.
 // @include			http*://*.world-of-dungeons.*/wod/spiel/hero/attributes.php*
-// @version			1.16
+// @version			1.17
 // @author			Tomy
 // @contributor     Finargol, taitoune, Mastermage
 // @copyright		2010+, Tomy
 // @grant           GM_getValue
 // @grant           GM_setValue
-// @downloadURL     https://bitbucket.org/wod/extra_equipment_stats/raw/default/script/extra_equipment_stats.user.js
+// @downloadURL     https://bitbucket.org/wod/extra_equipment_stats/raw/default/scripts/extra_equipment_stats.user.js
 // ==/UserScript==
 
 
