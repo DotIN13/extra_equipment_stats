@@ -90,7 +90,7 @@
 // @namespace		tomy
 // @description		Displays number of extra stats your armor gives you.
 // @include			http*://*.world-of-dungeons.*/wod/spiel/hero/attributes.php*
-// @version			1.17
+// @version			1.18
 // @author			Tomy
 // @contributor     Finargol, taitoune, Mastermage
 // @copyright		2010+, Tomy
@@ -102,7 +102,7 @@
 
 
 var DEBUG = false;
-var VER = "1.14";
+var VER = "1.18";
 var LOCAL_VAR_NAME = "WOD ARMOR STATS " + location.host;
 
 var Equipment = false;
@@ -318,7 +318,7 @@ var Contents = {
         , Adv_Disadv		: "职业特性"
         , Monument			: "纪念碑"
         , Clan_Has_Monument	: "联盟纪念碑"
-        , Link				: "Link ..."
+        , Link				: "链接..."
         , Item_Skill        : "只有在该物品可以使用的技能下使用此物品时，才会有这些奖惩效果。"
         , Effect_BonusTalent: "奖励技能的效果，不是技能的等级。此奖励会增加到伤害（当使用该种攻击方式时）或者治疗量（当治疗时）。"
         , Damage_Added      : "只有当已经形成该攻击方式，该类型的伤害后，所标注的伤害奖励才会附加上去，否则不会附加"
